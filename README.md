@@ -21,3 +21,4 @@ Especialidades: Java SEE & JEE, Spring Boot, PHP, JavaScript, MySQL, MySQL, Mong
 - Portfolio: [maximarquez.netlify.app](https://maximarquez.netlify.app/)
 - LinkedIn: https://www.linkedin.com/in/maximiliano-m%C3%A1rquez-023798240/
 - Instagram: https://www.instagram.com/marquezmaxi_/
+- WhatsApp: https://wa.me/543435410439?text=¡Hola!%20Quiero%20ponerme%20en%20contacto%20contigo.
