@@ -15,7 +15,7 @@
 
 Desde 2020 comencé a indagar en el universo de la programación cuando descubrí C++, aprendiendo las bases de los fundamentos de la programación. Posteriormente, comencé a explorar el mundo del desarrollo web, y en la actualidad, complementé mis conocimientos/habilidades con el desarrollo de aplicaciones de escritorio. Además, tengo conocimientos de creación y consumo de APIs REST (protocolo HTTP) y la utilización de DBMS (MySQL y MongoDB respectivamente).
 
-Especialidades: Java SEE & JEE, Spring Boot, PHP, JavaScript, MySQL, MySQL, MongoDB, HTML, CSS.
+Especialidades: Java SE & EE, Spring Boot, PHP, JavaScript, MySQL, MongoDB, HTML, CSS.
 
 ## Contacto
 - Portfolio: [maximarquez.netlify.app](https://maximarquez.netlify.app/)
