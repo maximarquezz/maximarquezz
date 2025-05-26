@@ -11,8 +11,8 @@
 [![MongoDB](https://img.shields.io/badge/MongoDB-000?style=flat&logo=mongodb&logoColor=47a248)](https://www.mongodb.com)
 
 Desde 2020 comencé a indagar en el universo de la programación cuando descubrí C++, aprendiendo las bases de los fundamentos de la programación. Posteriormente, comencé a explorar el mundo del desarrollo web, y en la actualidad, complementé mis conocimientos/habilidades con el desarrollo de aplicaciones de escritorio. Además, tengo conocimientos de creación y consumo de APIs REST (protocolo HTTP) y la utilización de DBMS (MySQL y MongoDB respectivamente).
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=maximarquezz&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=maximarquezz&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 Especialidades: Java SE & EE, Spring Boot, PHP, JavaScript, MySQL, MongoDB, HTML, CSS.
 
