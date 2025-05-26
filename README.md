@@ -10,14 +10,18 @@
 [![MySQL](https://img.shields.io/badge/MySQL-000?style=flat&logo=mysql&logoColor=4479a1)](https://www.mysql.com)
 [![MongoDB](https://img.shields.io/badge/MongoDB-000?style=flat&logo=mongodb&logoColor=47a248)](https://www.mongodb.com)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=maximarquezz&theme=dark&show_icons=true&hide_border=true&layout=compact)
+
 Desde 2020 comencé a indagar en el universo de la programación cuando descubrí C++, aprendiendo las bases de los fundamentos de la programación. Posteriormente, comencé a explorar el mundo del desarrollo web, y en la actualidad, complementé mis conocimientos/habilidades con el desarrollo de aplicaciones de escritorio. Además, tengo conocimientos de creación y consumo de APIs REST (protocolo HTTP) y la utilización de DBMS (MySQL y MongoDB respectivamente).
 
 Especialidades: Java SE & EE, Spring Boot, PHP, JavaScript, MySQL, MongoDB, HTML, CSS.
 
 [![roadmap.sh](https://roadmap.sh/card/wide/657dac725145316d250fefdd?variant=dark)](https://roadmap.sh)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maximarquezz&theme=dark&show_icons=true&hide_border=true&count_private=true)
 
 ## Contacto
 - Portfolio: [maximarquez.netlify.app](https://maximarquez.netlify.app/)
 - LinkedIn: https://www.linkedin.com/in/maximiliano-m%C3%A1rquez-023798240/
 - Instagram: https://www.instagram.com/marquezmaxi_/
 - WhatsApp: https://wa.me/543435410439?text=¡Hola!%20Quiero%20ponerme%20en%20contacto%20contigo.
+
